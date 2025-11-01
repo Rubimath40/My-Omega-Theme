@@ -1,6 +1,6 @@
 {
     "name": "Omega dark",
-    "icons": "omega_light",
+    "icons": "omega_dark",
     "colors": {
         "PrimaryText": "ffffff",
         "SecondaryText": "ff0000",
